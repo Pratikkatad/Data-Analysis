@@ -1,3 +1,15 @@
 # Data Analysis Using Excel
 
-## Description: Analysis of sales data from Awesomes Chocolates Company using Microsoft Excel. The analysis addresses various questions and challenges, providing insights into sales, profits, anomalies, and more.
+## Description: 
+Analysis of sales data from Awesomes Chocolates Company using Microsoft Excel. The analysis addresses various questions and challenges, providing insights into sales, profits, anomalies, and more.
+
+1	Quick statistics
+2	Exploratory Data Analysis (EDA) with CF
+3	Sales by country (with formulas)
+4	Sales by country (with pivots)
+5	Top 5 products by $ per unit
+6	Are there any anomalies in the data?
+7	Best Salesperson by country
+8	Profits by product (using products table)
+9	Dynamic country-level Sales Report
+10	Which products to discontinue?
